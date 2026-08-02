@@ -13,7 +13,7 @@
 -  He finalizado el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 -  También estudié el Grado Medio en **Sistemas Microinformáticos y Redes (SMR)**
 -  He realizado mis prácticas en **Hispasec**, trabajando en remoto
--  Actualmente ampliando conocimientos en ciberseguridad y desarrollo web
+-  Actualmente ampliando conocimientos en ciberseguridad y desarrollo software
 -  Apasionado de participar en **CTFs de ciberseguridad**
 -  Trabajador en equipo, serio y comprometido con hacer las cosas lo mejor posible
 -  Puedes contactarme en **amartinezz.dev@gmail.com**
